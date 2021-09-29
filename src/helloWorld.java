@@ -4,5 +4,6 @@ public class helloWorld {
         System.out.println("Hvad sker der");
 
         System.out.println("Vaadrut was here");
+        System.out.println("Ed, Ed og Eddie");
     }
 }
