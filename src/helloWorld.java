@@ -9,5 +9,6 @@ public class helloWorld {
         Scanner scanner = new Scanner(System.in);
         int g = scanner.nextInt();
         System.out.println(g);
+        System.out.println("Ed, Ed og Eddie");
     }
 }
