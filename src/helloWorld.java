@@ -10,5 +10,7 @@ public class helloWorld {
         int g = scanner.nextInt();
         System.out.println(g);
         System.out.println("Ed, Ed og Eddie");
+        int tal;
+
     }
 }
